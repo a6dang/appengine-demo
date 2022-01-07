@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Hello World Workspace Config">1ac7b397dcf80110aef9c36564cd5621</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Attachment">3478e8db0f0210107d20409dc4767e89</macroponent>
+        <macroponent_config>{&#13;
+    "table": "@data.gform.nowRecordFormBlob.table",&#13;
+    "sysId": "@data.gform.nowRecordFormBlob.sysId"&#13;
+}</macroponent_config>
+        <name>Attachment</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record">558adc930f0210107d20409dc4767e84</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="">747828db0f0210107d20409dc4767eb5</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-07 22:53:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>5ec7b3974af8011071a7269c9e230724</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hello World" source="x_705529_hello_w_0">39e6fb1307f80110aaddf2ae7c1ed0f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">39e6fb1307f80110aaddf2ae7c1ed0f5</sys_scope>
+        <sys_update_name>sys_ux_screen_5ec7b3974af8011071a7269c9e230724</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-07 22:53:02</sys_updated_on>
+    </sys_ux_screen>
+</record_update>

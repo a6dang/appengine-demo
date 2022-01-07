@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Hello World Workspace Config">1ac7b397dcf80110aef9c36564cd5621</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Analytics Center</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>analytics-center</route_type>
+        <screen_type display_value="Analytics Center">1ac7b39786f80110f53fe58933fd1522</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-07 22:53:02</sys_created_on>
+        <sys_id>5ac7b39785f8011029899006c12e5922</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Analytics Center</sys_name>
+        <sys_package display_value="Hello World" source="x_705529_hello_w_0">39e6fb1307f80110aaddf2ae7c1ed0f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">39e6fb1307f80110aaddf2ae7c1ed0f5</sys_scope>
+        <sys_update_name>sys_ux_app_route_5ac7b39785f8011029899006c12e5922</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-07 22:53:02</sys_updated_on>
+    </sys_ux_app_route>
+</record_update>
